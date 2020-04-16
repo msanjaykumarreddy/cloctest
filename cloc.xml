@@ -1,15 +1,3 @@
-<sloccountReportStatistics>
-	<language>
-		<files>7</files>
-		<lines>513</lines>
-		<name>xml</name>
-	</language>
-	<language>
-		<files>116</files>
-		<lines>8174</lines>
-		<name>java</name>
-	</language>
-	<totalFiles>123</totalFiles>
-	<totalLanguages>2</totalLanguages>
-	<totalLines>8687</totalLines>
-</sloccountReportStatistics>
+SLOC    Directory       SLOC-by-Language (Sorted)
+6       sloccount       (none)
+7       count           gsep
